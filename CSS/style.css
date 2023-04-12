@@ -1,0 +1,290 @@
+ * {
+  font-family: sans-serif;
+  box-sizing: border-box;
+  padding-left: 0px;
+} 
+
+.header {
+  background-image: url(../images/road-g9875459d1_1920\ 1.jpg);
+  width: 100%;
+  height: 750px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header_nav {
+align-items: end;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 35px;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+text-transform: uppercase;
+}
+
+.main {
+  border-bottom: 2px solid  #FFFFFF;
+}
+
+.ru {
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+padding-right: 8px;
+text-transform: uppercase;
+color: #B7B7B7
+}
+ 
+.en {
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+h1 {
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 150%;
+text-transform: uppercase;
+color: #FFFFFF;
+padding-top: 150px;
+}
+
+.navig button {
+  width: 198px;
+  height: 50px;
+  left: 243px;
+  top: 458px;
+  background: #DB2512; 
+  border: none;
+  font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+color: #FFFFFF;
+margin-top: 53px;
+}
+
+.contact  {
+height: 100%;
+background: #FFFFFF;
+box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+position: relative;
+top: 10px; 
+gap: 20px;
+}
+
+.contact img {
+  padding-top: 39px;
+  padding-left: 39px;
+}
+
+.contact h3 {
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 150%;
+padding-top: 21px;
+padding-left: 39px;
+}
+
+.contact p {
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+color: #B7B7B7;
+padding-top: 15px;
+padding-left: 39px;
+padding-bottom: 37px;
+}
+
+.services1 {
+  margin-top: 109px;
+font-weight: 700;
+font-size: 30px;
+line-height: 150%;
+color: #000000;
+}
+
+.services2 {
+  font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+color: #000000;
+margin-top: 15px;
+}
+
+.img_services {
+  margin-top: 60px;
+}
+
+.img_services h3 {
+margin-top: 21px;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+}
+.services3 {
+  margin-bottom: 98px;
+}
+.about h4 {
+  font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 150%;
+color: #FFFFFF;
+margin-top: 117px;
+padding-right: 147px;
+}
+.about p {
+  font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 150%;
+color: #B7B7B7;
+margin-top: 42px;
+padding-right: 147px;
+margin-bottom: 48px;
+}
+.about1 {
+  text-decoration: underline;
+}
+.abouts {
+background: #171616;
+}
+.about img {
+  margin-top: 153px;
+  margin-bottom: 170px;
+}
+.fast {
+  font-style: normal;
+font-weight: 900;
+font-size: 120px;
+line-height: 150%;
+color: #000000;
+margin-top: 99px;
+}
+.fast_p {
+  font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 150%;
+color: #000000;
+text-transform: uppercase;
+margin-bottom: 92px;
+}
+.proces h3 {
+  font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 150%;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+color: #000000;
+padding-top: 31px;
+padding-left: 30px;
+}
+.proces p {
+  font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+color: #B7B7B7;
+padding-top: 15px;
+padding-left: 30px;
+padding-bottom: 26px;
+}
+.proces {
+  height: 100%;
+  background: #FFFFFF;
+box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+padding-bottom: 26px;
+}
+
+.con-pro{
+padding-bottom: 99px;
+}
+
+.sec-con-us{
+  background:  #171616;
+}
+.cont-us {
+color: #FFFFFF;
+
+}
+
+.cont-us h2{
+color: #FFFFFF;
+font-weight: 700;
+font-size: 30px;
+line-height: 150%;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+padding-top: 97px;
+margin-bottom: 46px;
+}
+
+input{
+  border: none;
+  border-bottom: 1px solid #FFFFFF;
+  background: #171616;
+  margin-right: 46px;
+  color: white;
+}
+
+.name, .last {
+  margin-bottom: 45px;
+} 
+
+textarea{
+  margin-top: 54px;
+  border: none;
+  border-bottom: 1px solid #FFFFFF;
+  background: #171616;
+  margin-bottom: 37px;
+  color: white;
+}
+
+button{
+width: 198px;
+height: 50px;
+color: #FFFFFF;
+background: #DB2512;
+margin-bottom: 97px;
+border: none;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+  margin: 66px 0 61px ;
+}
+
+.auto h3{
+color: #000000;
+font-weight: 400;
+font-size: 15px;
+line-height: 150%;
+letter-spacing: 0.15em;
+}
+
+.in img{
+  padding-left: 21px;
+}
